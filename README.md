@@ -1,1 +1,1 @@
-# best-product-summary
+I used pandas to get data from sales_data.xlsx and send the data to sales_summary.xlsx. In the sales_data.xlsx, it says when the product was bought, what product it is (laptop, phone or tablet), which region they bought it from, how much they got, and the price of each quantity. In the sales_summary.xlsx, we can find out that the best selling product is a phone, the worst performing region is south and the total revenue is 15,600.
